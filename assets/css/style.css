@@ -1,0 +1,15 @@
+
+body{
+    font-family: 'Special Elite', cursive;
+}
+
+.jumbotron{
+	padding-top: 1%;
+    padding-bottom: 2%;
+    background-color: #337ab7;
+    color: white;
+}
+
+.panel-heading{
+    padding-top: 0.25%;
+}
